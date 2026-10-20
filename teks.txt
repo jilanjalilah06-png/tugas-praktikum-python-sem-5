@@ -1,0 +1,4 @@
+Python adalah bahasa pemrograman.
+Python mudah dipelajari dan Python sangat populer.
+Belajar pemrograman membutuhkan latihan.
+Bahasa Python digunakan untuk analisis data.
