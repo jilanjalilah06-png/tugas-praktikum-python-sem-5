@@ -1,0 +1,1 @@
+from .mahasiswa import buat_mahasiswa
